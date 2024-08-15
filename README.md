@@ -5,7 +5,8 @@
 <div>
   <a href="https://github.com/BautistaMarquez/SegundoPrimerSemestre"> <h2 align="center"> Primer Semestre</h2> </a>
   
-   <a href="https://github.com/BautistaMarquez/SegundoPrimerSemestre/tree/main/AyED"> <h2 align="center"> Algoritmos y estructuras de datos </h2> </a> <a href="https://github.com/BautistaMarquez/SegundoPrimerSemestre/tree/main/FOD"> <h2 align="center"> Fundamentos de organizacion de datos </h2> </a>
+   <a href="https://github.com/BautistaMarquez/SegundoPrimerSemestre/tree/main/AyED"> <p align="center"> Algoritmos y estructuras de datos </p> </a> 
+   <a href="https://github.com/BautistaMarquez/SegundoPrimerSemestre/tree/main/FOD"> <palign="center"> Fundamentos de organizacion de datos </p> </a>
 </div>
 
 
