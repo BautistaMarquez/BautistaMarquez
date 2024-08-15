@@ -1,5 +1,1 @@
-Estudiante de Informatica 
-
-Segundo Año
-
-https://github.com/BautistaMarquez/SegundoPrimerSemestre
+<h1 align="center"> Estudiante de Informatica </h1>
